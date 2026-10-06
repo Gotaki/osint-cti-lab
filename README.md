@@ -60,9 +60,11 @@ docs/          Architecture, decisions (ADRs), lessons
 
 ## Current status
 
+Status | [not started / in progress / done]
+
 | Component | Status |
 |---|---|
-| PIRs and collection plan | [not started / in progress / done] |
+| PIRs and collection plan | [not started] |
 | CISA KEV + URLhaus collectors | [not started] |
 | STIX 2.1 normalisation | [not started] |
 | Enrichment | [not started] |
